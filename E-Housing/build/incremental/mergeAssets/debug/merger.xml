@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger>
 
-    <dataSet config="19.1.0" >
-        <source path="/Users/Daniel/AndroidStudioProjects/E-Housing/E-Housing/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/assets" />
-    </dataSet>
     <dataSet config="main" >
         <source path="/Users/Daniel/AndroidStudioProjects/E-Housing/E-Housing/src/main/assets" />
     </dataSet>
